@@ -20,6 +20,7 @@
       <td>年齢</td>
       <td>
         <input type="text" name="employee_age">
+      </td>
     </tr>
     <tr>
       <td>所属部署</td>
